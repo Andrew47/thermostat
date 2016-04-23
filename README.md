@@ -4,7 +4,8 @@ This is a solution to Makers Academy's [FizzBuzz Challenge](https://github.com/m
 
 This solution uses a test-driven approach, with unit tests implemented using [Jasmine](http://jasmine.github.io).
 
-A solution is also available in [Python](https://github.com/Andrew47/fizzbuzz-Python) and [Ruby](https://github.com/Andrew47/Fizzbuzz)
+A solution is also available in [Python](https://github.com/Andrew47/fizzbuzz-Python), [Ruby](https://github.com/Andrew47/Fizzbuzz),
+[PHP](https://github.com/Andrew47/FizzBuzz-PHP/blob/master/README.md) and [C++](https://github.com/Andrew47/FizzBuzz-CPP).
 
 ##Installation
 
