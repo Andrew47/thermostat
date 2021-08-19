@@ -7,7 +7,7 @@ This solution uses a test-driven approach, with unit tests implemented using [Ja
 A solution is also available in [Python](https://github.com/Andrew47/fizzbuzz-Python), [Ruby](https://github.com/Andrew47/Fizzbuzz),
 [PHP](https://github.com/Andrew47/FizzBuzz-PHP/blob/master/README.md) and [C++](https://github.com/Andrew47/FizzBuzz-CPP).
 
-##Installation
+## Installation
 
 The repository should be cloned and the directory changed into:
 
@@ -17,7 +17,7 @@ $ cd fizzbuzz_JS
 $ cd FizzBuzz
 ```
 
-##Usage Instructions
+## Usage Instructions
 
 First open SpecRunner.html (`open SpecRunner.html`), then open up the console.
 
